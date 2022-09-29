@@ -1,0 +1,11 @@
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\bin\Debug\KTT.exe.config
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\bin\Debug\KTT.exe
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\bin\Debug\KTT.pdb
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\obj\Debug\KTT.csproj.AssemblyReference.cache
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\obj\Debug\KTT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\obj\Debug\KTT.CategoryForm.resources
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\obj\Debug\KTT.Properties.Resources.resources
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\obj\Debug\KTT.csproj.GenerateResource.cache
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\obj\Debug\KTT.csproj.CoreCompileInputs.cache
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\obj\Debug\KTT.exe
+C:\Users\Григорий\Desktop\Шарага\KTT\KTT\obj\Debug\KTT.pdb
